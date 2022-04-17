@@ -67,9 +67,6 @@ function saveRecord(record) {
         })
             .then(response => {
                 return response.json();
-            })
-            .then(response => {
-              return response.json();
             }).then(() => {
             // open one more transaction
             const transaction = db.transaction(['newBudget'], 'readwrite');
