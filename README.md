@@ -36,7 +36,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 <br>
 
 ## Description:
-The Budget Master was created as a financial aid to assist users in tracking their finances. The app allows users add expenses and credits to their budget. The app is employs PWA functionality and allows users track and modify their budget from any location regardless of network connection issues. The app has the ability to store user input offline in the event of a network failure and push to the online database once the connection is restored. The front end of the app is deployed on heroku while the backend uses mongodb atlas.
+The Budget Master was created as a financial aid to assist users in tracking their finances. The app allows users to add expenses and credits to their budget. The app is employs PWA functionality and allows users track and modify their budget from any location regardless of network connection issues. The app has the ability to store user input offline in the event of a network failure and push to the online database once the connection is restored. The front end of the app is deployed on heroku while the backend uses mongodb atlas.
 
 <br>
 
